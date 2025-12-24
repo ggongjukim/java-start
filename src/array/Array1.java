@@ -34,3 +34,4 @@ public class Array1 {
         System.out.println("가장 작은 정수: " + minNum + " 가장 큰 점수 :" + maxNum);
     }
 }
+// 배열의 유효한 범위를 벗어나는 인덱스를 사용하면 어떻게 될까요? > 런타임 오류 발생
